@@ -1,6 +1,8 @@
 {
   "item.tutorialmod.ruby": "Ruby (Perfect)",
   "item.tutorialmod.ruby2": "Ruby (Flawed)",
+  "block.tutorialmod.ruby_block": "Block of Ruupee",
+  "block.tutorialmod.raw_ruby_block": "Block of RAW Ruupee",
 
   "itemgroup.ruby": "Totally epic creative tab"
 }
