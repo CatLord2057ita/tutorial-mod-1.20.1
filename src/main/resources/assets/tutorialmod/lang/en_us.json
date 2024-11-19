@@ -1,3 +1,6 @@
 {
-  "item.tutorialmod.ruby": "Ruby"
+  "item.tutorialmod.ruby": "Ruby (Perfect)",
+  "item.tutorialmod.ruby2": "Ruby (Flawed)",
+
+  "itemgroup.ruby": "Totally epic creative tab"
 }
