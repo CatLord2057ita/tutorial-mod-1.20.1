@@ -1,8 +1,9 @@
 {
   "item.tutorialmod.ruby": "Ruby (Perfect)",
   "item.tutorialmod.ruby2": "Ruby (Flawed)",
-  "block.tutorialmod.ruby_block": "Block of Ruupee",
-  "block.tutorialmod.raw_ruby_block": "Block of RAW Ruupee",
-
+  "block.tutorialmod.ruby_block": "Block of Ruby",
+  "block.tutorialmod.raw_ruby_block": "Block of Raw Ruby",
+  "block.tutorialmod.ruby_ore": "Ruby Ore",
+  "block.tutorialmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
   "itemgroup.ruby": "Totally epic creative tab"
 }

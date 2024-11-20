@@ -16,6 +16,7 @@ public class TutorialMod implements ModInitializer {
 	public void onInitialize() {
 		LOGGER.info("Hello Fabric wolrd!");
 		ModItemsCreativeTab.registerItemTabs();
+
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 	}
