@@ -18,6 +18,7 @@ public class ModItemsCreativeTab {
                     .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
                         entries.add(ModItems.RUBY);
                         entries.add(ModItems.RUBYBUTAGAIN);
+                        entries.add(ModItems.METAL_DETECTOR);
                         entries.add(ModBlocks.RUBY_BLOCK);
                         entries.add(ModBlocks.RAW_RUBY_BLOCK);
                         entries.add(ModBlocks.RUBY_ORE);
